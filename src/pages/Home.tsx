@@ -77,7 +77,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-2">
           <i className="fa-solid fa-qrcode mr-3 text-blue-500"></i>极简二维码生成器
         </h1>
-        <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
+        <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto p-4">
           粘贴网址或文本，即刻生成可保存的二维码，无需注册登录
         </p>
       </motion.header>
