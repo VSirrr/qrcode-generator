@@ -4,10 +4,12 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "dev:client": "vite --host --port 3000",
-    "dev": "pnpm dev:client",
+    "dev": "vite --host --port 3000",
     "build": "vite build"
   },
+  "author": "vsirrr",
+  "license": "Apache-2.0",
+  "keywords": ["qrcode", "qrcode-generator"],
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^12.9.2",
